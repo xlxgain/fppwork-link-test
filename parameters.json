@@ -1,0 +1,11 @@
+{
+  "width": 1024,
+  "height": 768,
+  "orientation": "vertical",
+  "horizontal_periods": 16,
+  "mean_gray": 127.5,
+  "modulation": 127.5,
+  "phase_radians": 0,
+  "format": "8-bit grayscale PNG",
+  "formula": "127.5 * (1 + cos(2 * pi * 16 * x / 1024))"
+}
