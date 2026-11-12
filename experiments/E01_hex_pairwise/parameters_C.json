@@ -1,0 +1,11 @@
+{
+  "shape": [256, 256], "projector_shape": [768, 1024],
+  "fc": 400, "cx": 127.5, "cy": 127.5,
+  "fp": 800, "pcx": 511.5, "pcy": 383.5,
+  "baseline_mm": 100, "distance_mm": 800,
+  "tilt_x": 0.1, "tilt_y": 0.05,
+  "bump_height_mm": 12, "bump_sigma_mm": 25,
+  "period_px": 40, "A": 127.5, "B": 100,
+  "noise_levels": [0, 1, 5], "repeats": 20, "seed": 20261113,
+  "parameter_status": "exploratory; model references do not prescribe these numerical values"
+}
