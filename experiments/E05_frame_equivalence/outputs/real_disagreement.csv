@@ -1,0 +1,13 @@
+method,paired_pixels,raw_disagreement,component_relative_disagreement,interpretation
+flat_W0_M0,761086,1.0,0.8456600173961943,"agreement only, TPU4 is NOT truth"
+flat_W0_M1,761086,1.0,0.8456600173961943,"agreement only, TPU4 is NOT truth"
+flat_W1_MLSQU_HEX_Q2_M0,760991,1.0,0.8456407500220108,"agreement only, TPU4 is NOT truth"
+flat_W1_MLSQU_HEX_Q2_M1,760991,1.0,0.8456407500220108,"agreement only, TPU4 is NOT truth"
+pointy_W0_M0,761447,1.0,0.8457331895719598,"agreement only, TPU4 is NOT truth"
+pointy_W0_M1,761447,1.0,0.8457331895719598,"agreement only, TPU4 is NOT truth"
+pointy_W1_MLSQU_HEX_Q2_M0,761394,1.0,0.8457224511882153,"agreement only, TPU4 is NOT truth"
+pointy_W1_MLSQU_HEX_Q2_M1,761394,1.0,0.8457224511882153,"agreement only, TPU4 is NOT truth"
+global_BFS,763054,1.0,0.8460554561014031,"agreement only, TPU4 is NOT truth"
+TPU2,763054,0.9244011564057065,0.9090431345619052,"agreement only, TPU4 is NOT truth"
+TPU3,763054,0.710062459537595,0.710062459537595,"agreement only, TPU4 is NOT truth"
+TPU4,763054,0.0,0.0,"agreement only, TPU4 is NOT truth"

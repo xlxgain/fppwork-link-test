@@ -1,0 +1,4 @@
+method,definition,phase_min,phase_max,absolute_status
+TPU2,object minus reference,-2.974885130984207,191.36798437619166,unverified_lowest_order_and_origins
+TPU3,object minus reference,-3.785093762383077,193.11929231390482,unverified_lowest_order_and_origins
+TPU4,object minus reference,-3.785093762383077,193.11929231390482,unverified_lowest_order_and_origins

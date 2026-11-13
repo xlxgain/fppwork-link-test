@@ -1,0 +1,15 @@
+{
+  "runtime_seconds": 100.03767599999992,
+  "simulation_trials": 63,
+  "simulation_records": 819,
+  "real_methods": 12,
+  "highest_frequency": 60,
+  "history_unchanged": true,
+  "pytest": {
+    "tests": 42.0,
+    "failures": 0.0,
+    "errors": 0.0,
+    "skipped": 0.0,
+    "time": 6.127
+  }
+}
