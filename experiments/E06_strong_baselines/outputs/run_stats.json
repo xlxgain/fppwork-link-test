@@ -1,0 +1,15 @@
+{
+  "runtime_seconds": 844.043445299998,
+  "input_groups": 252,
+  "records": 3528,
+  "method_failures": 0,
+  "highest_noise_draws": 40,
+  "total_noise_draws": 280,
+  "pytest": {
+    "tests": 48.0,
+    "failures": 0.0,
+    "errors": 0.0,
+    "skipped": 0.0,
+    "time": 14.144
+  }
+}
