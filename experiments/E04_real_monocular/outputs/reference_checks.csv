@@ -1,0 +1,4 @@
+stage,ratio,n,prediction_circular_rmse,fraction_abs_residual_under_02,trusted_pixels,status
+1,2.0,762150,0.06451482139156699,0.9889155678016138,0,unverified_frequency_origin_and_lowest_order
+2,3.5,762037,0.1315455121745792,0.957473193558843,0,unverified_frequency_origin_and_lowest_order
+3,4.285714285714286,760161,0.22704319728784322,0.7133462516493216,0,unverified_frequency_origin_and_lowest_order

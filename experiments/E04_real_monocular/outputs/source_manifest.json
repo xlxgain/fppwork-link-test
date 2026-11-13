@@ -1,0 +1,444 @@
+{
+  "source": "https://github.com/hectorcs23/fringe-projection-3d-reconstruction",
+  "source_commit": "35967405441b58addd2a2c9e877ee4c3d4821ccc",
+  "baseline": "c442a660d1b9e4d2b6b778e29975483bfc13f85d",
+  "files": [
+    {
+      "kind": "reference",
+      "frequency_index": 0,
+      "step": 0,
+      "phase_shift_rad": 0.0,
+      "file": "data\\sphere\\DSC_0169.JPG",
+      "sha256": "1435e97e976059427873721afa762ee87602a2e06401b0c5e1264a1a68bfd056",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "reference",
+      "frequency_index": 0,
+      "step": 1,
+      "phase_shift_rad": 1.5707963267948966,
+      "file": "data\\sphere\\DSC_0170.JPG",
+      "sha256": "1c0d166b887be2e300d5dbdb33b522dbc8bb07204544b3b2424bda240220123f",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "reference",
+      "frequency_index": 0,
+      "step": 2,
+      "phase_shift_rad": 3.141592653589793,
+      "file": "data\\sphere\\DSC_0171.JPG",
+      "sha256": "ff17c12113ef7736d1b94f60248a682a2b627f02c85c2119485f3c3e80915a99",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "reference",
+      "frequency_index": 0,
+      "step": 3,
+      "phase_shift_rad": 4.71238898038469,
+      "file": "data\\sphere\\DSC_0172.JPG",
+      "sha256": "d58e3efae864181c1631bc8866b4487230715f2c59cfb290d5e9d626028e7e5c",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "reference",
+      "frequency_index": 1,
+      "step": 0,
+      "phase_shift_rad": 0.0,
+      "file": "data\\sphere\\DSC_0173.JPG",
+      "sha256": "b463aa7d63c39edf0171a71e077f223a3e9425e36fcdf2c66551d69f5a7cb517",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "reference",
+      "frequency_index": 1,
+      "step": 1,
+      "phase_shift_rad": 1.5707963267948966,
+      "file": "data\\sphere\\DSC_0174.JPG",
+      "sha256": "dc42e1178c4866d8ed1174b4d704a8897355d27746564c962ae6781033d27e3c",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "reference",
+      "frequency_index": 1,
+      "step": 2,
+      "phase_shift_rad": 3.141592653589793,
+      "file": "data\\sphere\\DSC_0175.JPG",
+      "sha256": "f8f7410494751ab7e6d1cbc156ee17eb660eaae2a8131176a86f2c91cb1ea573",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "reference",
+      "frequency_index": 1,
+      "step": 3,
+      "phase_shift_rad": 4.71238898038469,
+      "file": "data\\sphere\\DSC_0176.JPG",
+      "sha256": "655a3eab8874c5bc77204f158d695fe3493692992a9601aeba4333cfea54e640",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "reference",
+      "frequency_index": 2,
+      "step": 0,
+      "phase_shift_rad": 0.0,
+      "file": "data\\sphere\\DSC_0177.JPG",
+      "sha256": "17d39b3587267c071089775ddbc9443614305324740a387c48a3e30ac6ba3415",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "reference",
+      "frequency_index": 2,
+      "step": 1,
+      "phase_shift_rad": 1.5707963267948966,
+      "file": "data\\sphere\\DSC_0178.JPG",
+      "sha256": "b7851d07a30cbf41f808a2dae506ffc27c2faabe52689bb9733efa1b71b54464",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "reference",
+      "frequency_index": 2,
+      "step": 2,
+      "phase_shift_rad": 3.141592653589793,
+      "file": "data\\sphere\\DSC_0179.JPG",
+      "sha256": "73a3bc444dd647b4e66a9fdaeaed347d8898f8dc55aceb1ac0b322c119345791",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "reference",
+      "frequency_index": 2,
+      "step": 3,
+      "phase_shift_rad": 4.71238898038469,
+      "file": "data\\sphere\\DSC_0180.JPG",
+      "sha256": "9fdaceee783b73abd67618a880b94f306dd874b57c0ee07346a5d1c602568a6e",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "reference",
+      "frequency_index": 3,
+      "step": 0,
+      "phase_shift_rad": 0.0,
+      "file": "data\\sphere\\DSC_0181.JPG",
+      "sha256": "362a6d9247fe33a9a457fd65f73fc920f04344d29890b5843ae7eee4a579c911",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "reference",
+      "frequency_index": 3,
+      "step": 1,
+      "phase_shift_rad": 1.5707963267948966,
+      "file": "data\\sphere\\DSC_0182.JPG",
+      "sha256": "92056b687a91bc02d947262b94f0e2a21bfbd2c71ada0cc37e059208772037f7",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "reference",
+      "frequency_index": 3,
+      "step": 2,
+      "phase_shift_rad": 3.141592653589793,
+      "file": "data\\sphere\\DSC_0183.JPG",
+      "sha256": "8b2ac6ee929b003070d5dfdf9533bc8ccd4601c2b9c7817571a2fa4a77dc4094",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "reference",
+      "frequency_index": 3,
+      "step": 3,
+      "phase_shift_rad": 4.71238898038469,
+      "file": "data\\sphere\\DSC_0184.JPG",
+      "sha256": "4b61749f0f7b2fe7847dadd021a21811af51c152aad48cf75e15772419a4c615",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 0,
+      "step": 0,
+      "phase_shift_rad": 0.0,
+      "file": "data\\sphere\\DSC_0185.JPG",
+      "sha256": "93925466d6d4501a55cbbc0089a3a5b2be2a4a0116d1f026a80cf1010cb326d4",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 0,
+      "step": 1,
+      "phase_shift_rad": 1.5707963267948966,
+      "file": "data\\sphere\\DSC_0186.JPG",
+      "sha256": "2113e1a72181722d23fb54d8de546782dd3de7283669eafb71564292322db69f",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 0,
+      "step": 2,
+      "phase_shift_rad": 3.141592653589793,
+      "file": "data\\sphere\\DSC_0187.JPG",
+      "sha256": "ea3a12fa861689baaeca8b21ccf6c1b10e90d570618ad884fdf63b9fb1fa5c15",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 0,
+      "step": 3,
+      "phase_shift_rad": 4.71238898038469,
+      "file": "data\\sphere\\DSC_0188.JPG",
+      "sha256": "ee0381b23f368c9beeeefe1796d1db1e1efed3951097c404be963c3c2991816a",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 1,
+      "step": 0,
+      "phase_shift_rad": 0.0,
+      "file": "data\\sphere\\DSC_0189.JPG",
+      "sha256": "37f075256a34255001cf6c6424a15a226827966cb009da47e5b7d7ae71fe0d13",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 1,
+      "step": 1,
+      "phase_shift_rad": 1.5707963267948966,
+      "file": "data\\sphere\\DSC_0190.JPG",
+      "sha256": "6537d512e10f6e18e072998507af68d0e12cd48d733eddd4b6c48285ff5352bd",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 1,
+      "step": 2,
+      "phase_shift_rad": 3.141592653589793,
+      "file": "data\\sphere\\DSC_0191.JPG",
+      "sha256": "f3a630b87a4acd54e19da17e0273d4cf1a5f35c93c8607c646c7b36f1c2a0612",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 1,
+      "step": 3,
+      "phase_shift_rad": 4.71238898038469,
+      "file": "data\\sphere\\DSC_0192.JPG",
+      "sha256": "80d9e94142718256f0ecec9979689553bbb9ca24c32ee2b587e71ea2a8fec895",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 2,
+      "step": 0,
+      "phase_shift_rad": 0.0,
+      "file": "data\\sphere\\DSC_0193.JPG",
+      "sha256": "7f8e8724e954ae2df4030ce338e5a63189735682c8e81d6c843f29805a82c1c4",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 2,
+      "step": 1,
+      "phase_shift_rad": 1.5707963267948966,
+      "file": "data\\sphere\\DSC_0194.JPG",
+      "sha256": "deba7bcd62c184d0993c61d83fc25aa15a65385a3cb0cefdb226ec87fe34212b",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 2,
+      "step": 2,
+      "phase_shift_rad": 3.141592653589793,
+      "file": "data\\sphere\\DSC_0195.JPG",
+      "sha256": "b1950a4d52b17aa31a58ffc5d434cae1120997650add00b1a860b096f53d3f8d",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 2,
+      "step": 3,
+      "phase_shift_rad": 4.71238898038469,
+      "file": "data\\sphere\\DSC_0196.JPG",
+      "sha256": "155f750b8ba883fab59eb61c6b7c625279639008bbeb652483f65041439401f8",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 3,
+      "step": 0,
+      "phase_shift_rad": 0.0,
+      "file": "data\\sphere\\DSC_0197.JPG",
+      "sha256": "a0c71c876e8e8986928911716a44c6c9068fba05b3ee4b247566685ed43c9d16",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 3,
+      "step": 1,
+      "phase_shift_rad": 1.5707963267948966,
+      "file": "data\\sphere\\DSC_0198.JPG",
+      "sha256": "290c08bead050878dc4ebd6989224b56c58443b3fec33e4abe121d74f6fc0b8a",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 3,
+      "step": 2,
+      "phase_shift_rad": 3.141592653589793,
+      "file": "data\\sphere\\DSC_0199.JPG",
+      "sha256": "42d67fd6bad0be55c2f8497b95efab5576801c00587b581b93aae68b0f7d4c5e",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    },
+    {
+      "kind": "object",
+      "frequency_index": 3,
+      "step": 3,
+      "phase_shift_rad": 4.71238898038469,
+      "file": "data\\sphere\\DSC_0200.JPG",
+      "sha256": "07a159366336a199014cdf98ca389b76fe436a378a458be94d8c68947162e8eb",
+      "size": [
+        1152,
+        768
+      ],
+      "mode": "RGB"
+    }
+  ],
+  "source_code_hashes": {
+    "README.md": "b854f1b6ac5786e761947686098ecf26bf08ecf051d128a8571a5e1b0bee0d88",
+    "src/sphere_multifreq.py": "19d40f3860a710af89ea09cff16e7c279277c44a142be944c496151c2a2f62b0",
+    "src/phase_shifting.py": "e2bf27733aeec3e51850d0bab5555c71bcb5ab1c9f46f7d40314e5dd3ccaf345",
+    "src/measure_freqs.py": "6b9c60794e4d869edfe0a0c12438b13594735655e63ea996c87d77548fc26588",
+    "LICENSE": "145969baf004ad9a7ccbf55d7fc898cdf7f6359b40dd6994df78e53ae0ff53ba"
+  },
+  "environment": {
+    "python": "3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)]",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "platform": "Windows-11-10.0.26200-SP0"
+  },
+  "no_additional_resampling": true,
+  "shape": [
+    768,
+    1152
+  ],
+  "algorithm_sources": "E02/local_unwrap.py; E01/e01.py and e01_c.py support",
+  "phase_definition": "absolute object phase at highest frequency; multifrequency difference converted using independent unverified reference carrier",
+  "trusted_integer_reference_pixels": 0
+}

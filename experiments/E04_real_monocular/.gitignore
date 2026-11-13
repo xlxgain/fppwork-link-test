@@ -1,0 +1,4 @@
+data_cache/
+inspection.png
+__pycache__/
+.pytest_cache/

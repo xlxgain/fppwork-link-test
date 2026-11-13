@@ -1,0 +1,16 @@
+{
+  "runtime_seconds": 23.437415299999884,
+  "valid_pixels": 763054,
+  "total_pixels": 884736,
+  "window_records": 1724,
+  "pair_records": 9512,
+  "trusted_reference_pixels": 0,
+  "max_candidate_modulo_error": 4.802299079989145e-13,
+  "pytest": {
+    "tests": 37.0,
+    "failures": 0.0,
+    "errors": 0.0,
+    "skipped": 0.0,
+    "time": 5.84
+  }
+}
