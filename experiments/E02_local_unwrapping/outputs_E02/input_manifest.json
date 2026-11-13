@@ -1,0 +1,1097 @@
+{
+  "config": {
+    "seed": 20261114,
+    "reference_seed": 9281,
+    "sigma": [
+      0,
+      1,
+      5
+    ],
+    "repeats": 20,
+    "A": 127.5,
+    "B": 100,
+    "side": 30,
+    "band_width": 6,
+    "endpoint_margin": 6,
+    "rho_count": 40,
+    "basis": "tensor_Q2_without_constant"
+  },
+  "baseline": "63982bfdc982ee75c2a724c245067f61782352d0",
+  "geometry": {
+    "shape": [
+      256,
+      256
+    ],
+    "projector_shape": [
+      768,
+      1024
+    ],
+    "fc": 400,
+    "cx": 127.5,
+    "cy": 127.5,
+    "fp": 800,
+    "pcx": 511.5,
+    "pcy": 383.5,
+    "baseline_mm": 100,
+    "distance_mm": 800,
+    "tilt_x": 0.1,
+    "tilt_y": 0.05,
+    "bump_height_mm": 12,
+    "bump_sigma_mm": 25,
+    "period_px": 40,
+    "A": 127.5,
+    "B": 100,
+    "noise_levels": [
+      0,
+      1,
+      5
+    ],
+    "repeats": 20,
+    "seed": 20261113,
+    "parameter_status": "exploratory; model references do not prescribe these numerical values"
+  },
+  "scene_definition": "fixed flat reference grid; center/edge/junction labels apply ONLY to reference flat grid",
+  "inputs": [
+    {
+      "scene_id": "plane",
+      "sigma": 0,
+      "repeat": 0,
+      "input_hash": "56f4f4cfb0a72ec9bb1ff5ffa69b4ca68b65f3097dfd25b5a775172272ac2e66"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 0,
+      "input_hash": "3e3a9f5155194579ac6c5366d875f492f585341b65e2561bb50c407e490be08a"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 1,
+      "input_hash": "6ac39c82bea9523623fdba6650e14c21992611fe949947a0626c9c1817e9afce"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 2,
+      "input_hash": "4b235fe2ed364299813e02da71417c0d53abde214c3a4bf3fdf96f8514b96edd"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 3,
+      "input_hash": "ed9f1f9baf64e94c1c167736dd65938e802a0968fd20f8f980afd82cca99174f"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 4,
+      "input_hash": "cae46593bdb3963b36e04807355537d1503fe786bb2f5c656dece46357e43afa"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 5,
+      "input_hash": "3526ad3abe8d9415bf76f586e65659463e304d4f30551db4cc1b1991f3ca9d79"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 6,
+      "input_hash": "3b2c6690b5a55a9a2d27c79c7ba12da50f70561b8705c3c90667188ca132de94"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 7,
+      "input_hash": "1d40593f740bb407e0fcb58f9379dafc193846fd1d91accc4f536b3f54b32fe5"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 8,
+      "input_hash": "d8f1dde170843a4bc4f1ebddd27e42808a0e8c09f2c788e4218da9f660a0e760"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 9,
+      "input_hash": "9905e785f6c5ec3ef6e3659aca209b246af14c520e9822d94d20248cb18f1ee8"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 10,
+      "input_hash": "a5afa6405aa9a73095ee1d4c6fc851f20c859400b2b6ea1bb7971c44a31ac32a"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 11,
+      "input_hash": "e34f9f916560a765d60a4b12c46ec7ce86c8c899bee3d2dcf0b81a7d22714b70"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 12,
+      "input_hash": "10172dff6aef38625710630d72c94c6cb87dcca8cafe30edfffb78fbafe0ac07"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 13,
+      "input_hash": "7aa8ee341740202287ac5fa1ba7a9e90742fcea01a73b0bec0547b1e10fb1c59"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 14,
+      "input_hash": "fddbfa9c6cdbea3b54b227b6f314923686bf90a3f4dd24fdfb60a71054606a49"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 15,
+      "input_hash": "a485202b559a8f657dfa84b85ded3d323eb89b5914746efa02e1b58a43e400a8"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 16,
+      "input_hash": "0fdb3b10d40567ddea7fe17bfbbd17a3d898360d16682c7fc60132ca74b78aba"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 17,
+      "input_hash": "3a8517c2efcdee69c2207fca41bc34f2188f6c73eaddf71a3602d8c3a56ee200"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 18,
+      "input_hash": "9a5c3968faa2a5f716400afc3b2c7dd7807e4e872108891e2807ca79c0fe0d1d"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 1,
+      "repeat": 19,
+      "input_hash": "61d71d550734f0bdcbeca0f29855c5508dd68a124d9742c8d83656e22a57b3c6"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 0,
+      "input_hash": "e5cb13ec43331b80ef8f564da50c149d9743f3be09cf615f314a67e6a7eb77a4"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 1,
+      "input_hash": "b4aee1331045119f1895c8f16ec2408b525768d63ef4138f37fd945d91ed791b"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 2,
+      "input_hash": "a97a08d53ca4ad44cc1cf9f5473ecf1ea4b5f26b64c1128f8983fdc2a2b4263c"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 3,
+      "input_hash": "729a4edda16b1ad559a8c11120bac0c52e613cd70e94c01e13f7f551cb0319cb"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 4,
+      "input_hash": "876797b0101b6d9e7bb4a9d635c70507d5065a5230d3c0959daa5e63c9f22762"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 5,
+      "input_hash": "4af8d5e993f4d1f1cb2eb5f3c568d7735b28b4ea4374d610a1e4669f77649671"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 6,
+      "input_hash": "6a6804059cacc01a816f0af7865b4c980a4dad6979e214bd3eaf8ebeba9fddca"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 7,
+      "input_hash": "5befb4d3eda9eab954e0151f75083217fd8097508b9608812432de50c16f8a6a"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 8,
+      "input_hash": "1ca049dd1766bde563338d70ee8e4de11b7464bb05a35aa8010f2ebad73db447"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 9,
+      "input_hash": "c2ee6ca541e4cb320a2b0bd9f4b40b9e3edbc4b4b6349200bf4098d9678c6953"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 10,
+      "input_hash": "7de2d0579612047735fab3c331aef124011a7d0befe3f13f608dcf54a102d471"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 11,
+      "input_hash": "1ef4214af80e1aec813b9cb7bd38a4ece24d79072758ad8055976d17ae1df541"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 12,
+      "input_hash": "bb3f8bb1748138dfadd90de5d063f05f34385e1987c84e65dae5f7efcc8e5842"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 13,
+      "input_hash": "df7e2f372e3bc72114711f66fcf9174dd956b58d5fc3a51efb84aa769c9d5749"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 14,
+      "input_hash": "50bbd1be71d5cf87206b8acfd2bd74cfa3634922918e9af560dcf5ffe9604d81"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 15,
+      "input_hash": "e0cbf68f9ac07419816dc39b2fd1a7fde58f9cc5d758de05d89a7d4e880c7f88"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 16,
+      "input_hash": "3a15ffc7938ac61226c695b3a67f8e4cba03b0d16d4e01c21bca9f2dc0de469d"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 17,
+      "input_hash": "d5c41729cc3cf6b2f08d4561626146a63fac8e4ebdc626fd3bebad9ca33a4b9a"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 18,
+      "input_hash": "7c3e7bbbd2970044863693f9aa2b1b192246a86a655221e0b97b3a36fcc14f56"
+    },
+    {
+      "scene_id": "plane",
+      "sigma": 5,
+      "repeat": 19,
+      "input_hash": "7a32f09951602b4cc97359545e1d7f967e784444fc56024ca806994e722b1806"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 0,
+      "repeat": 0,
+      "input_hash": "7f805fadbb2d73347cdcb746895669622baf022f834432df671264e1be425609"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 0,
+      "input_hash": "d1587b3ca1bf17f5665b999dfbe8f365170c9ed744e00d6e6d6657e3d33501b3"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 1,
+      "input_hash": "c4ede48362fb49428c76ead18bf97aaf8b8fc28fc5ea60747fb53a4dacf5aae8"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 2,
+      "input_hash": "0e407bee61141755120b9d04ee0924f78750a965f97c23ff150105ed5dcab339"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 3,
+      "input_hash": "0db251775d79e3081e20e963bcba35e97caa1712b331f0247f7cecbc2d7ffa89"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 4,
+      "input_hash": "0270db8f2c9a792b9510ddf9e8cb3bbef4fc45123222a89a5c3234831a1a22d4"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 5,
+      "input_hash": "c6bf1e9ea1aa2f42839e27fb75c6ef0be6d0e16d38e4691b47be64162602c42a"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 6,
+      "input_hash": "9770dd60c7b844ddd974dc69d7697be2d7a8a0256960b38ad9b1254cc85ac801"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 7,
+      "input_hash": "3e5efc113d23d7060c819d8ed31d527f788d9526073dbd9e409e9c2bb7be6c6c"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 8,
+      "input_hash": "fdf3086fc3937381480b4de2f01e6fcff9f2c6e7f5322e8074fe46d392131bc3"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 9,
+      "input_hash": "7596c186555566fe6018e3eae83ffcfa98cd5b35d50a6be582e4d14fe648589a"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 10,
+      "input_hash": "3b09f4ca76c2bedcf25a1f17b350083d2ff5eefda86939f3072861f40bcc187e"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 11,
+      "input_hash": "26838a43bf8aab0f11f8f758cf92df74438d8f7776dd2c42edd64f2a5aa08040"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 12,
+      "input_hash": "df1504fe555f256a1dc1f910bea807bd57438fcd2840db626a6612185c5a5cc0"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 13,
+      "input_hash": "78f4b972f7f324e68bd0c9fa674a4152c00c40b258f8bb0ffe21b46957a61791"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 14,
+      "input_hash": "be4a1ba62b37085077daf8131d4ed48e78d2491e6a68ca8bee48854a677ad48e"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 15,
+      "input_hash": "0db9e722fb1971328d2a06c0a840a21f77c676fe0d5ab1b62bb41c4809c59811"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 16,
+      "input_hash": "35c256162fed6b7bc6e2dac418198b968c22b7bda1ff54f8b1d92e2a6bd89e03"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 17,
+      "input_hash": "9f980decbc98b47c8f656134cb920a028ca6be8526f6a9649d0feb8452208c42"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 18,
+      "input_hash": "43661a8f490c4430864c29924e5ec4875f7b2dcfdc5a98b173f01429045406f5"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 1,
+      "repeat": 19,
+      "input_hash": "196296987888161c4de48bd06e68031ec70a89c61f1128836e2aeeb0a4c7218c"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 0,
+      "input_hash": "1be26e72f0cb8361813d970926d8d65eae73392b83933b87f5bdd7fb392d99d6"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 1,
+      "input_hash": "5f04ac112d95588294ce688e987cb991c4618771759cc16b114d0879bf17806d"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 2,
+      "input_hash": "f1058f9bdb0349af650604f4c831af9b990cac78d68ab0e5046f3df33a60bd6c"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 3,
+      "input_hash": "92f58502a8121fe69da8f0ac88ee63fa751cce6a98756a6bb2f714bfbc748fa7"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 4,
+      "input_hash": "a167decd90701d19f576fa8a19d1270f8fedc5dec27d0d6732f0a1f8dab1c832"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 5,
+      "input_hash": "3bef0d4de4fb11eaf74f2ec154a5f6efc056ad0f4d3f0dba67bd650f8b77e16e"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 6,
+      "input_hash": "9a19ee935cadeae26ea4089a8156449f911d289123b00cce67c05c1ed637a5ed"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 7,
+      "input_hash": "0f63b1667f1cb662e51f910d4e20e47979e52184c6201dc536c9569d565f50ed"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 8,
+      "input_hash": "110650a722bf4e8c31e24ca8e00b7b818b84a99e954933fbbc950c7d8b2d47a4"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 9,
+      "input_hash": "01cc128aa4150953f0c7f6714e1ed1db406deec590b0b02be7b1eb020aaf6084"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 10,
+      "input_hash": "a0b5af475f461f36ca959d8ebb2fa63aeaa20244a5c135ef4f10092adda0cb4b"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 11,
+      "input_hash": "5b487a51159d62ddf6257b4e373409b6478b0380483c71a2501cb3e56203bd3c"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 12,
+      "input_hash": "ccaae713bb3d6a40dc39220efb2e0cd84eacdb0ac02aa4aed53b16e3c8585317"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 13,
+      "input_hash": "f8b59f7561aa43aec46b15993f438b7e4261d1e54cddf7e6adf4ab67444a71fc"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 14,
+      "input_hash": "16b94a945c5e1e204cc77303d06ced6d328d0d5c3ae44ec3943dbe9a65992242"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 15,
+      "input_hash": "9b431da2b88590007636a0744e55e51c22775d6069e22abb0c8252d3856c54f2"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 16,
+      "input_hash": "e64899acd0f989a7db0c4acc8eb005815dd211f09536ad12c4c84a8328c67309"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 17,
+      "input_hash": "f8317d251db8b89bdfd474e4c28959be9415741426742d665b59246db049756a"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 18,
+      "input_hash": "f10f62a77e7469b60aa1f2d7a11fdc47be8901af5dad7114186b555c049d2968"
+    },
+    {
+      "scene_id": "center",
+      "sigma": 5,
+      "repeat": 19,
+      "input_hash": "b5e07c9eb5891a72083a5f5b6dc7f743d03b40329b5e9d0b99b486488c842439"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 0,
+      "repeat": 0,
+      "input_hash": "42eb4fbdf1701547046b3e193aa20d48d687ae4ade14efae41d709a6cd8c1035"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 0,
+      "input_hash": "8dbdf9be059206f34be2cf1c2bc24527387e9cfc9dff917ac2698e4ac145b2ed"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 1,
+      "input_hash": "d91fbaae25eeb56a88671472e619f3e3807e59fa1602b1171a9017f57c3c9821"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 2,
+      "input_hash": "9909c711da3c9fd4c39eefaa112ec75d0dbae0614f89d30088c9183271bb5529"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 3,
+      "input_hash": "f4ead3ed419bea5d3b26c4af4998e8723d438fc03326df1a48687c47800eac23"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 4,
+      "input_hash": "cc8cc322e93aeb3f8346f052f5f4d78d92030730ad14defa61e36c7ca6e61913"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 5,
+      "input_hash": "7396728b1f181b90d123777dfb5ab67bfa09e4f1ab23e22a8dedbfafc333ebf5"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 6,
+      "input_hash": "f53f4b91d2d0268deb13fe3db045329db05835fb244761818fa411d7acb254d3"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 7,
+      "input_hash": "5448f6c70f017792581938d67b828a0508471f6129ced766e7316753217999fe"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 8,
+      "input_hash": "7abc38fbd2acca51e5e199512df899eef1d3a47dc6be884f85f5a2fbe15a2968"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 9,
+      "input_hash": "60e2a42131a80cf81cbf3fb3d997ac90da8823af1720a6837da3708ad5de8210"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 10,
+      "input_hash": "c24c6b4ed793e90b8f315a432ef646fa9333a53e1cf860a7ba275c2cab114160"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 11,
+      "input_hash": "d1b82d710367b3e5422a337985e89214dd9cd13fa30ee0f502d8f052fbb253ef"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 12,
+      "input_hash": "26716d57c6c861376bcee89e713bc023cdd4b1fdd606b9e69c48c90b52cf7dc6"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 13,
+      "input_hash": "6692fe5799da3f6c1aea460ab63ca278ab4d6d03df6b1bf86d606baebce5f06c"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 14,
+      "input_hash": "2071dc63508ad82d3061c783f22e3adcb584c7470bbc4d7bd75d9e93cefc2397"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 15,
+      "input_hash": "097da41cfda0d8170870dd4cf09e81f9f62310c4984672881fdbb0343710cb43"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 16,
+      "input_hash": "bb93b8d4ddb6772a0967ebbc9f6f045206e8eddabef5cc4c41cafe9ad012f461"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 17,
+      "input_hash": "7235740dbd3d043f611bd0efbb4f5e7549a49124098e1c39809b7a24d9d2c7fa"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 18,
+      "input_hash": "4e7edc67ba8f5193ba5736ea75ecda1221301ded9a7f778d2f4eff3ef3a9320f"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 1,
+      "repeat": 19,
+      "input_hash": "7a22cf0d94813160c9b0a0d8b6834a000b91bd4308bb3b0d8b7e36d06d35e740"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 0,
+      "input_hash": "5740f3d3082e3a6965001a9ac7d0a3111d8be386b7ab46c03e3cb712889e93ee"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 1,
+      "input_hash": "79b0ff330265ab10c4f232901c92f0cea3f44790c1affa0250ba511e5f39473d"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 2,
+      "input_hash": "7a6df760ce86d6239428cac62fd368be1151f5d4cd28508a8b93e09468f7013a"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 3,
+      "input_hash": "be525267feb688a5318704c3a3751e17e417928fe024d825a854eac04c1ebb31"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 4,
+      "input_hash": "344367843fcf14eeaba5220c3a072eb6ee0ca2b12571d3717cf573c4b5124e52"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 5,
+      "input_hash": "efb46030835b042bd23abb36c2cb0d907af8ea352f7e7b90a4ed3aab8bf54ad0"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 6,
+      "input_hash": "4a52bfb9f55b7a2482582a8f0517183818ae524c8b63d30185d9cc77c70dfcd2"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 7,
+      "input_hash": "bb058dcbe66c2489faa7a437c362d6ad79e0f78024d1a258ec9b07ee7dbd711a"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 8,
+      "input_hash": "a5b1bec8acdc0f59f51b48cac834ab348aa36879882d170302ba3076d05535c3"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 9,
+      "input_hash": "063ad4e97ced4f8d79f5c42a439b6592d42eaa10b67824f143b902844acc5d5c"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 10,
+      "input_hash": "e5269b3b6c718958a8bd26c1f1644c958109a5c32cd6635089745f1e41467549"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 11,
+      "input_hash": "d311d1032612fa29306d343458cb70ec33568eb6df981ac98befbad7caa6e54a"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 12,
+      "input_hash": "b023e29a0b9103c32c927a784cba9c443f6785f51cb14c6d78dd889c80347099"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 13,
+      "input_hash": "895972156ffd1610639745ee12ac6222994429a02349993d3f2ba9bd5df136b9"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 14,
+      "input_hash": "72edf21ff855a3ddcebc98f0908ff00ac8c41b330a600ee72edb5bbbc91c5fed"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 15,
+      "input_hash": "faf36e65cbb6bf4b2254732cb6ef212dca6d3c009cc0b20df4047d22321201ea"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 16,
+      "input_hash": "73737de7c296c22d12aa34a5275bdbec4519aca960903d52d5478194a9ba58c3"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 17,
+      "input_hash": "881fbddc4070b943ce313c5ce617a5e342e86d3450d3c15fc53549de56cc5e7d"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 18,
+      "input_hash": "b3de101f1770dfc66cbfccb15fa6758c6bf5d71d44d3b1d3b0dab65415776b45"
+    },
+    {
+      "scene_id": "edge",
+      "sigma": 5,
+      "repeat": 19,
+      "input_hash": "491764e683ef0072f1b2a9afbeed6bc8167c1921f6b2fe086790508bf6b67bb0"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 0,
+      "repeat": 0,
+      "input_hash": "21be2405a5ca59ab43c9ce8236e35060525d9536f90265ed735c29cbccd38e53"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 0,
+      "input_hash": "275485c22a20223d256155ed398be63570713baaa5bed815692cc0669875a5bd"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 1,
+      "input_hash": "5060e0d197283035bd0144f9c03feb5b00c0f07830cb353e8dcb9b6c69c95766"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 2,
+      "input_hash": "2fbd7889de0d41428b3302ca1b682acb1a90db661c0480922ca1449d0866495f"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 3,
+      "input_hash": "e85d4d27cf4da2b16b264ba3b8eecc289ff29274c98d096136e4874bb7f09d41"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 4,
+      "input_hash": "5f4b4ec08218a93b3f802b92ea5e8712dc27a7944d188ce844467185a6830ed4"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 5,
+      "input_hash": "167062aab814425b98f3fc8f7178dc090a6507b0614091ce6cb6bc98719c4e3d"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 6,
+      "input_hash": "62378e7c30b2405c5662887e227212c580fb342408797515e68b663777109798"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 7,
+      "input_hash": "ca35ff74d8b3b27ad9d107ba6a974ecadddff7b985af7bb0254572c9deaf82fd"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 8,
+      "input_hash": "3fc85783864a5f4f0d9baf7e28c4c0203dd602fb98dfd4cc27f5824ad5669376"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 9,
+      "input_hash": "d8942710fb52fa9a1f940e8a43a18e03ba0d832ea6fae4574587ea408277896b"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 10,
+      "input_hash": "b909c2f56db26f651245f5a5195c95e7fbcbcdf560a8f04e593589232b8074c1"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 11,
+      "input_hash": "559fa674bd80872997138690c62867d30b792f3437b3ab9a832b1c8fbaecb83f"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 12,
+      "input_hash": "d965413a139d6c94a6c2cb02ac58b79d4167e900673502e203df53d35552c5ec"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 13,
+      "input_hash": "b4b0456760ef653199111746d0a0db8ed1b639d46267eab0b0ecc96a2ae5c8f0"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 14,
+      "input_hash": "a5a24708c2fa843517bb5e1eb2b626629d4a9d2c9137bac2cf78fdbcf7b5c84b"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 15,
+      "input_hash": "8f3dcef69909de3561627a44251e049be5b9cc6a82ddeffafe661abad043d02c"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 16,
+      "input_hash": "9c27283eaf10fd17635e82840767985df1107dd62923117a92bcb32a04f4d826"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 17,
+      "input_hash": "1b992a469148ad9dc170b8d7da15f0adbb0e8c41ad9f58eed5469f5cac43cfc7"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 18,
+      "input_hash": "688434696078d09374804738147ab5d6483611986381210ae79a016d8b69a26f"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 1,
+      "repeat": 19,
+      "input_hash": "9e72b11974cbc082b93d780e42dad9f55c0411f309dd418922edd03ae351eb54"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 0,
+      "input_hash": "324f612c30197d607594f881e0f18645236e4c914de200211f48650b458a603c"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 1,
+      "input_hash": "e7603ba6da8692bfa1a1911e2778dd0e656a59f9a728a9c178ef2ba438c75df6"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 2,
+      "input_hash": "30df182b61a1b7b6a277c54fcec2aaeceaaf3e7f58ba557a846702d9c195c1b6"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 3,
+      "input_hash": "19309fa9d89024a5ccdaef02163e3008bdf78ba5dde71526df73ce10ee5ebd3f"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 4,
+      "input_hash": "2c60b51d363538246dd2cda8868d05876ba6c40865f88134649e896a271ca7b1"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 5,
+      "input_hash": "6928f3b9d1126a7de97276feb2c494c3e664e38e6a3a68be552402c3f1374a70"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 6,
+      "input_hash": "286022e133046ed4c4001b515615a5eeb9b6195fe5de5c9fd1414f6dadb57e6a"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 7,
+      "input_hash": "9b56cc6c89f2a753672fa7df719e532d504a0d84e18dcef3d3f7e40836c4424a"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 8,
+      "input_hash": "ec565ee5289eef94c8de1b1833cc02484812f8ca2c02449a257f248ee2e41097"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 9,
+      "input_hash": "a9039b2fff07fd64de7410ba479392f11c98bb1512840b043d88a4027bef3ec4"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 10,
+      "input_hash": "728da59a6991a61ef0de83965fc771c1e0b39366dfb8db89dce73f5ef9995711"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 11,
+      "input_hash": "6f697f796142f88b5c0a54974230bf55e9d9e2aa6754f4a869d5c0294d0f8691"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 12,
+      "input_hash": "ac7cd9266055cabddeb7781994c0016f8bd3fde46de54cbfe0813194f5bf206b"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 13,
+      "input_hash": "fff8f085e48e334588734401ed982f85716426ddd9e74ceedc55d9aae28552bd"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 14,
+      "input_hash": "83a5102d84d30f6bcd1d67c6039652ee7dbb75f5ef7fd7ac73eb292b7ac1e561"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 15,
+      "input_hash": "98fcb4aaa56694a16f4659dcf784b8abe245dcdbb566853cbd318338b0a2d93b"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 16,
+      "input_hash": "a3777f9290bcb82e823a170e73067aa3a043cf08b162cda70a1313a6b0220c3b"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 17,
+      "input_hash": "31adea63f81374efd6163e2413310870743cb2c760fe5f51393f0574a2ba5777"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 18,
+      "input_hash": "3246595cfff6739417e24be576e30cc7bf19d8c5ccd6d39f296a4d4d073b06e2"
+    },
+    {
+      "scene_id": "junction",
+      "sigma": 5,
+      "repeat": 19,
+      "input_hash": "eb4ac04ceadc69e9a7bb9d16c30dc7651d4ff79a88818882f0882e3b32f0cd2a"
+    }
+  ],
+  "scenes": {
+    "plane": {
+      "source": "E01_hex_pairwise\\outputs_C\\flat_plane.npz",
+      "sha256": "2f2cc0f17a11eb1505e01bd760e5274444f0e8b5de5a5599ebd82d2ac24bbac7",
+      "reference_flat_pixel": null,
+      "bump_center_XY_mm": null
+    },
+    "center": {
+      "source": "E01_hex_pairwise\\outputs_C\\flat_center.npz",
+      "sha256": "b024efc58e3996344d87c47daad0347f44fdd2f1b0b16ca5c4294e79b277c7f7",
+      "reference_flat_pixel": [
+        128.0,
+        128.0
+      ],
+      "bump_center_XY_mm": [
+        1.000187535162843,
+        1.000187535162843
+      ]
+    },
+    "edge": {
+      "source": "E01_hex_pairwise\\outputs_C\\flat_edge.npz",
+      "sha256": "331244ea39d0d13c9c240fc61389600b5174ff817e8d1724cd2a416f14387797",
+      "reference_flat_pixel": [
+        105.5,
+        115.00961894323342
+      ],
+      "bump_center_XY_mm": [
+        -43.69148144552595,
+        -24.805602372239356
+      ]
+    },
+    "junction": {
+      "source": "E01_hex_pairwise\\outputs_C\\flat_junction.npz",
+      "sha256": "d58f47c5f47776d9213094b2db394b82ee083e079b058cccd66cf763f4bea7cb",
+      "reference_flat_pixel": [
+        98.0,
+        128.0
+      ],
+      "bump_center_XY_mm": [
+        -58.571694484085135,
+        0.9927405844760193
+      ]
+    }
+  },
+  "source_sha256": {
+    "evaluation.py": "4cb67189f5428a21f931a436f92c7ee01132bd5e83bfaf9fffa460ee642b25ac",
+    "finalize.py": "af2d0e3681224aa1e41f3140ebb1f8b9917c49561e6cb3b1604d8e5162a9a864",
+    "local_unwrap.py": "cebd8bc49ddb8b4eae55adbddd532b545dbab6adf0edbf0c6ed79b512c9dcc18",
+    "run_e02.py": "72c69e0e2e92de896055761680b9d36a483c063085a99f028c77d2c0bcbd4d50",
+    "test_e02.py": "1c2b89b69e4c1152f67aee1e8a745920eec0c332f5544b4280666923a9c9dfc3"
+  },
+  "environment": {
+    "python": "3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1"
+  }
+}

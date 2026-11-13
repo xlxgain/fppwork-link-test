@@ -1,0 +1,10 @@
+{
+  "runtime_seconds": 257.20985169999994,
+  "window_records": 25584,
+  "pair_records": 120704,
+  "oracle_records": 60352,
+  "strict_success_rate": 1.0,
+  "failures": 0,
+  "integer_error_rate": 0.0,
+  "max_wrap_error": 1.133107779529596e-15
+}

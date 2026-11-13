@@ -1,0 +1,13 @@
+orientation,sigma,window_method,pair_method,all_geometric_edges,valid_fraction,both_correct_fraction,conditional_integer_error_rate
+flat,0,oracle_control,M0,368,0.8913043478260869,1.0,0.0
+flat,0,oracle_control,M1,368,0.8913043478260869,1.0,0.0
+flat,1,oracle_control,M0,7360,0.8913043478260869,1.0,0.0
+flat,1,oracle_control,M1,7360,0.8913043478260869,1.0,0.0
+flat,5,oracle_control,M0,7360,0.8913043478260869,1.0,0.0
+flat,5,oracle_control,M1,7360,0.8913043478260869,1.0,0.0
+pointy,0,oracle_control,M0,368,0.8913043478260869,1.0,0.0
+pointy,0,oracle_control,M1,368,0.8913043478260869,1.0,0.0
+pointy,1,oracle_control,M0,7360,0.8913043478260869,1.0,0.0
+pointy,1,oracle_control,M1,7360,0.8913043478260869,1.0,0.0
+pointy,5,oracle_control,M0,7360,0.8913043478260869,1.0,0.0
+pointy,5,oracle_control,M1,7360,0.8913043478260869,1.0,0.0
